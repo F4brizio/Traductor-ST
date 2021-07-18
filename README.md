@@ -2,7 +2,7 @@
 
 Complemento de Sublime Text 3 para traducir inline usando el API de Google Tranductor.
 
-Se debe descargarse en `/Path/to/SublimeText3/Data/Packages`. 
+Se debe descargar en `/Path/to/SublimeText3/Data/Packages`. 
 
 Seleccionar texto y traduce usando __alt+x__. 
 
